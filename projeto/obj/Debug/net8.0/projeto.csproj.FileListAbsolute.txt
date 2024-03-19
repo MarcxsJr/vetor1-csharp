@@ -1,0 +1,15 @@
+D:\Projetos C#\Atividade 2\projeto\bin\Debug\net8.0\projeto.exe
+D:\Projetos C#\Atividade 2\projeto\bin\Debug\net8.0\projeto.deps.json
+D:\Projetos C#\Atividade 2\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+D:\Projetos C#\Atividade 2\projeto\bin\Debug\net8.0\projeto.dll
+D:\Projetos C#\Atividade 2\projeto\bin\Debug\net8.0\projeto.pdb
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.sourcelink.json
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.dll
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\refint\projeto.dll
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.pdb
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+D:\Projetos C#\Atividade 2\projeto\obj\Debug\net8.0\ref\projeto.dll
